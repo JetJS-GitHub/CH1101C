@@ -14,5 +14,8 @@ namespace CH1101C
 
         string Name = "Example for GitHub On 18:46";
 
+        int J = 1;
+        int K = 2;
+
     }
 }
