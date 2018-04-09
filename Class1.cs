@@ -11,5 +11,8 @@ namespace CH1101C
         private int i = 0;
 
         private bool j = false; //Example for GitHub
+
+        string Name = "Example for GitHub On 18:46";
+
     }
 }
